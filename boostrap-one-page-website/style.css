@@ -1,0 +1,9 @@
+.container-fluid{
+    background-image: url("images/nabvar-bg.jpg");
+    background-position: 2cm;
+}
+
+.card img{
+    height: 50%;
+    object-fit: cover;
+}
